@@ -5,7 +5,8 @@
     padding: 0;
 }
 
-/* 2 empty columns on each side so that the footer takes up the entire screen*/
+/* 2 empty columns on each side so that the footer takes up the entire screen, 
+and the rest is in the middle*/
 /* 1 empty row at the top instead of margin-top*/
 .grid-container {
     display: grid;

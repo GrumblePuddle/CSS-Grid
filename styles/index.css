@@ -75,6 +75,10 @@ and the rest is in the middle*/
 .item-12 {
     grid-area: 8 / 1 / 9 / 9;
     background-color: #9BC1BC;
+    
+}
+
+.item-12 h1 {
     font-family: 'Helvetica Neue';
     font-style: normal;
     font-weight: 700;
@@ -82,4 +86,5 @@ and the rest is in the middle*/
     line-height: 78px;
     text-transform: uppercase;
     color: #000000;
+    padding-top: 20px;
 }
